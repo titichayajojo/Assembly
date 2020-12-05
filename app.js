@@ -44,7 +44,7 @@
                     "showValue": "1",
                     "chartBottomMargin": "45",
                     "showValue": "0",
-                    "cylFillColor": "#1aaf5d"
+                    "cylFillColor": "#1aaf5d",
                 },
                 "value": "110",
                 "annotations": {
@@ -141,6 +141,7 @@
                     "valueFontColor": "#000000",
                     "theme": "fusion",
                     "showValue": "1"
+                    
                 },
                 "value": "0",
                 //All annotations are grouped under this element
